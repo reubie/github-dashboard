@@ -7,7 +7,7 @@ A modern, responsive web application for searching and exploring GitHub reposito
 - 🔍 **User Search**: Search for any GitHub user by username
 - 📚 **Repository Display**: View user repositories with detailed information
 - ⭐ **Star Counts**: See repository popularity at a glance
-- 🌙 **Dark Mode**: Automatic dark/light mode support
+
 - 📱 **Responsive Design**: Works perfectly on all devices
 - ⚡ **Fast Performance**: Built with Next.js 15 and optimized for speed
 
